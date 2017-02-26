@@ -1,0 +1,2 @@
+Visual studio
+python 2.7

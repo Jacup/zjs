@@ -1,0 +1,4 @@
+a * b
+x ** n
+str(a) - wyświetlenie jako napisa
+len(str(a)) - długość cyfry
