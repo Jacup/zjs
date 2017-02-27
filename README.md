@@ -5,6 +5,7 @@
 ###useful links
 
 Github PythonWyklad [klik!](https://github.com/tborzyszkowski/PythonWyklad.git)
+
 Kurs Python [klik!](https://mdl.ug.edu.pl/course/view.php?id=2742)
 
 ###Literatura
