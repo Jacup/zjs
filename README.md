@@ -3,10 +3,10 @@
 ##Podstawy programowania w Pythonie
 
 ###useful links
-```
+
 git python [klik](https://github.com/tborzyszkowski/PythonWyklad.git)
   - https://mdl.ug.edu.pl/course/view.php?id=2742
-```
+
 ###Literatura
 ```
 1. Guido van Rossum, Python Tutorial, http://docs.python.org/tut/.
