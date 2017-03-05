@@ -1,2 +1,4 @@
 Visual studio
 python 2.7
+
+TODO: hashtable, porównania sekwencji
