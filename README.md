@@ -1,14 +1,14 @@
-#Repo z Zaawansowanych języków programowania
+# Repo z Zaawansowanych języków programowania
 
-##Podstawy programowania w Pythonie
+## Podstawy programowania w Pythonie
 
-###useful links
+### useful links
 
 Github PythonWyklad [klik!](https://github.com/tborzyszkowski/PythonWyklad.git)
 
 Kurs Python [klik!](https://mdl.ug.edu.pl/course/view.php?id=2742)
 
-###Literatura
+### Literatura
 ```
 1. Guido van Rossum, Python Tutorial, http://docs.python.org/tut/.
 2. Mark Pilgrim, Dive into Python. http://diveintopython.net/.
